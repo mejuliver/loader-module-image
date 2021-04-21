@@ -1,0 +1,23 @@
+{
+  "name": "loader-module-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html --public-url ./"
+  },
+  "dependencies": {
+    "imagemin": "^7.0.0",
+    "imagemin-webp": "^5.1.0",
+    "vanilla-lazyload": "^12.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/utso-pulgada/loader-module-image.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/utso-pulgada/loader-module-image#readme"
+}
